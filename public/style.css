@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    color:  maroon;
+}
+
+.post{
+
+    background-color: blanchedalmond;
+
+     
+}
+
+.user{
+    /* font-style: italic; */
+    text-align: center;
+    
+}
+
+div{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    
+   
+    
+}
